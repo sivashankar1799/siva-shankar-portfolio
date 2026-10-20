@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#63e6ff"/><stop offset="1" stop-color="#9b7bff"/></linearGradient>
+  <radialGradient id="r"><stop stop-color="#63e6ff" stop-opacity=".18"/><stop offset="1" stop-color="#070812" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="#070812"/>
+<circle cx="1040" cy="90" r="360" fill="url(#r)"/>
+<circle cx="80" cy="570" r="300" fill="url(#r)"/>
+<path d="M0 110H1200M0 180H1200M0 250H1200M0 320H1200M0 390H1200M0 460H1200M0 530H1200" stroke="#fff" stroke-opacity=".035"/>
+<path d="M100 0V630M180 0V630M260 0V630M340 0V630M420 0V630M500 0V630M580 0V630M660 0V630M740 0V630M820 0V630M900 0V630M980 0V630M1060 0V630M1140 0V630" stroke="#fff" stroke-opacity=".025"/>
+<rect x="80" y="80" width="70" height="70" rx="18" fill="#0d1524" stroke="#63e6ff" stroke-opacity=".55"/>
+<text x="115" y="126" text-anchor="middle" font-family="Arial" font-size="24" font-weight="800" fill="#63e6ff">PS</text>
+<text x="80" y="245" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#f7f8ff">P. Siva Shankar</text>
+<text x="80" y="305" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="url(#g)">FULL STACK DEVELOPER</text>
+<text x="80" y="360" font-family="Arial, sans-serif" font-size="22" fill="#a9aec4">Cybersecurity • AI • Modern Web Applications</text>
+<rect x="80" y="430" width="400" height="2" fill="url(#g)"/>
+<text x="80" y="478" font-family="Consolas, monospace" font-size="18" fill="#63e6ff">$ whoami</text>
+<text x="80" y="510" font-family="Consolas, monospace" font-size="18" fill="#a9aec4">secure • intelligent • user-focused software</text>
+</svg>
